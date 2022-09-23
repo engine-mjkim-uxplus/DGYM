@@ -36,7 +36,7 @@
 ---------
 
 
-<img width="800" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/192014674-4ee480cd-8286-46cc-ad1f-0cdfe9cba339.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/95892601/192023548-af58877e-d891-469a-bbc6-33275b747811.png">
 
 
 ### ✏️ 적용 기술
