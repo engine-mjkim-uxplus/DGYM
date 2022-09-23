@@ -10,7 +10,7 @@
 ### 🗓️ 공정표
 --------------------
 
-<p align="center"><img width="644" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/192014879-ac34f8e9-facd-4e3c-b175-85495f5ba17f.png"></p>
+<p align="center"><img width="800" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/192014879-ac34f8e9-facd-4e3c-b175-85495f5ba17f.png"></p>
 
 
 
