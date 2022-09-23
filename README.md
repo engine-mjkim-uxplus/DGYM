@@ -25,9 +25,5 @@
 <img width="647" alt="image" src="https://user-images.githubusercontent.com/95892601/192014674-4ee480cd-8286-46cc-ad1f-0cdfe9cba339.png">
 
 
-
-### 6. 유스케이스 다이어그램
-
-
-### 7. 적용 기술
+### 6. 적용 기술
 <img width="497" alt="image" src="https://user-images.githubusercontent.com/95892601/192014770-88332f47-eb08-467c-9e0a-afaeeb376951.png">
