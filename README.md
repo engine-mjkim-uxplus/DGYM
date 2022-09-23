@@ -24,7 +24,7 @@
 ### ✏️ FireStore db 구조
 ---------
 
-<p align="center"><img width="644" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/192014527-f586bef3-dfb2-4115-89db-d7c5cd983c99.png"></p>
+<p align="center"><img width="800" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/192014527-f586bef3-dfb2-4115-89db-d7c5cd983c99.png"></p>
 
 
 
