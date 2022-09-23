@@ -2,7 +2,7 @@
 파이어베이스를 이용한 헬스장 웹프로젝트
 
 ---------
-### 1. 업무분담
+### - 업무분담
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png">
 
 
