@@ -7,6 +7,10 @@
 <br/>
 <br/>
 
+## 🎥 시연영상
+
+
+
 ## 👩‍👩‍👧‍👧 업무분담
 
 <p align="center"><img width="644"  alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png"></p>
