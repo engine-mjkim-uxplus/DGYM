@@ -3,13 +3,13 @@
 
 ---------
 ### ✏️ 업무분담
----------
+--------------------
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png">
 
 
 
 ### 🗓️ 공정표
----------
+--------------------
 
 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/95892601/192014879-ac34f8e9-facd-4e3c-b175-85495f5ba17f.png">
