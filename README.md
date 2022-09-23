@@ -4,7 +4,7 @@
 ---------
 ### ✏️ 업무분담
 --------------------
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png">
+     <img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png">
 
 
 
@@ -12,7 +12,7 @@
 --------------------
 
 
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192014879-ac34f8e9-facd-4e3c-b175-85495f5ba17f.png">
+     <img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192014879-ac34f8e9-facd-4e3c-b175-85495f5ba17f.png">
 
 
 
@@ -20,7 +20,7 @@
 ---------
 
 
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192022438-00e5782c-74b7-4200-97d6-3c7236473924.png">
+     <img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192022438-00e5782c-74b7-4200-97d6-3c7236473924.png">
 
 
 
