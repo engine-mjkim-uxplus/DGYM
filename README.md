@@ -4,7 +4,7 @@
 ---------
 ### ✏️ 업무분담
 --------------------
-<img width="644" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png">
+<img width="644"  alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png">
 
 
 
@@ -36,7 +36,7 @@
 ---------
 
 
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192014674-4ee480cd-8286-46cc-ad1f-0cdfe9cba339.png">
+<img width="800" height="500" alt="image" src="https://user-images.githubusercontent.com/95892601/192014674-4ee480cd-8286-46cc-ad1f-0cdfe9cba339.png">
 
 
 ### ✏️ 적용 기술
