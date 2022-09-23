@@ -9,6 +9,7 @@
 <p align="center"><img width="644"  alt="image" src="https://user-images.githubusercontent.com/95892601/192014192-3d5676b9-c569-49ec-a60c-bcb630ca3287.png"></p>
 
 <br/>
+
 ### 🗓️ 공정표
 --------------------
 
@@ -16,6 +17,7 @@
 
 
 <br/>
+
 ### ✏️ 메뉴트리
 ---------
 
@@ -23,6 +25,7 @@
 
 
 <br/>
+
 ### ✏️ FireStore db 구조
 ---------
 
@@ -30,14 +33,17 @@
 
 
 <br/>
+
 ### ✏️ 유스케이스 다이어그램
 ---------
 
 <p align="center"><img width="800" alt="image" src="https://user-images.githubusercontent.com/95892601/192023548-af58877e-d891-469a-bbc6-33275b747811.png"></p>
 
 <br/>
+
 ### ✏️ 적용 기술
 ---------
 
 <p align="center"><img width="644" alt="image" src="https://user-images.githubusercontent.com/95892601/192014770-88332f47-eb08-467c-9e0a-afaeeb376951.png"></p>
+
 <br/>
