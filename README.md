@@ -28,6 +28,13 @@
 <br/>
 
 
+## 📄요구사항정의서
+<p align="center">![image](https://user-images.githubusercontent.com/95892601/192566274-e85b4d51-251c-4b9c-b8bd-8aeb67c350b4.png)</p>
+<p align="center">![image](https://user-images.githubusercontent.com/95892601/192566607-9ffad9ef-dc7f-46bc-afec-908ea76b5f78.png)</p>
+<p align="center">![image](https://user-images.githubusercontent.com/95892601/192566704-e6756481-77f2-4964-85cb-aa9d9e6b244c.png)</p>
+
+
+
 ## ✏️ 메뉴트리
 
 
