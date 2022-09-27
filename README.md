@@ -46,7 +46,7 @@
 <br/>
 
 
-## ✏️ FireStore 컬렉션 구조
+## 🧱 FireStore 컬렉션 구조
 
 
 <p align="center"><img width="800" height="300" alt="image" src="https://user-images.githubusercontent.com/95892601/192014527-f586bef3-dfb2-4115-89db-d7c5cd983c99.png"></p>
@@ -55,7 +55,7 @@
 <br/>
 
 
-## ✏️ 유스케이스 다이어그램
+## ✒️ 유스케이스 다이어그램
 
 
 <p align="center"><img width="800" alt="image" src="https://user-images.githubusercontent.com/95892601/192023548-af58877e-d891-469a-bbc6-33275b747811.png"></p>
