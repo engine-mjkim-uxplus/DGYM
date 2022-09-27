@@ -32,7 +32,7 @@
 
 ![화면 캡처 2022-09-28 001948](https://user-images.githubusercontent.com/95892601/192567389-57f7f8b3-76cf-4d19-86cd-f48c0029b0d7.png)
 ![image](https://user-images.githubusercontent.com/95892601/192567600-93bc477c-4c69-42a2-8fda-7aa48610047d.png)
-![image](https://user-images.githubusercontent.com/95892601/192567751-f41ac35d-ba91-46e1-b217-e64abefe557a.png)
+![image](https://user-images.githubusercontent.com/95892601/192567933-535affe8-3d06-4cb8-862c-f9a7e22179e7.png)
 
 
 <br/>
