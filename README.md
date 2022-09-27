@@ -8,7 +8,7 @@
 <br/>
 
 ## 🎥 시연영상
-<a href="https://www.youtube.com/watch?v=GkUEW_p6GbI"></a>
+<a href="https://www.youtube.com/watch?v=GkUEW_p6GbI">시연영상 바로가기</a>
 
 
 
